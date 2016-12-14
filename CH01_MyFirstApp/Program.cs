@@ -10,7 +10,8 @@ namespace CH01_MyFirstApp
     {
         static void Main(string[] args)
         {
-            System.Console.WriteLine("Hello C#!");
+            Console.WriteLine("Hello C#!");
+            Console.ReadLine();
         }
     }
 }
